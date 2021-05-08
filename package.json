@@ -24,7 +24,7 @@
         "sass-loader": "^8.0.2",
         "sass-resources-loader": "^2.0.1",
         "search-query-parser": "^1.5.4",
-        "ua-parser-js": "^0.7.21",
+        "ua-parser-js": "^0.7.24",
         "url-loader": "^3.0.0",
         "url-parse": "^1.4.7",
         "uuidv4": "^4.0.0",
