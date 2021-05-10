@@ -26,7 +26,7 @@
         "search-query-parser": "^1.5.4",
         "ua-parser-js": "^0.7.21",
         "url-loader": "^3.0.0",
-        "url-parse": "^1.4.7",
+        "url-parse": "^1.5.0",
         "uuidv4": "^4.0.0",
         "vue": "^2.6.11",
         "vue-loader": "^15.9.0",
